@@ -17,9 +17,11 @@ Each time you return to the main menu, the plugin checks for completed challenge
 
 ## Installation
 
-1. Download the ZIP from [Releases](https://github.com/TheAnkabut/AutoClaimChallenges/releases).
-2. Extract it.
-3. Place the DLL in: `%appdata%\bakkesmod\bakkesmod\plugins`
+1. Close Rocket League.
+2. Download the ZIP from [Releases](https://github.com/TheAnkabut/AutoClaimChallenges/releases).
+3. Extract the zip.
+4. Run `install_AutoClaimChallenges.bat`.
+5. Start Rocket League.
 
 *This plugin sends a one-time request with user ID to count unique users.*
 
